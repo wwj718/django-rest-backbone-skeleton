@@ -1,3 +1,9 @@
+很棒的quickstart
+
+甚至自带了csrf.js
+
+django与backbon.js结合，功能最简，清晰明了
+
 django-rest-backbone-skeleton
 =============================
 
